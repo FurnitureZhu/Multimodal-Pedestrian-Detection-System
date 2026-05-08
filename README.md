@@ -4,6 +4,8 @@ Multimodal Pedestrian Detection System using LLVIP Dataset
 **多模态行人检测系统（LLVIP Dataset）**
 Python / PyTorch / Faster R-CNN
 
+** 项目源码在Colab上，此处仅供展示
+
 基于可见光与红外图像融合的人体目标检测系统，实现低光环境下的行人检测。
 
 **项目内容：**
